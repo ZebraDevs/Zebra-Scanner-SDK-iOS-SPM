@@ -61,7 +61,7 @@ Detail guide to accessing the Zebra Scanner SDK in your project can be found [he
 
 ## License
 
-The Zebra Scanner SDK iOS is released under the Zebra license. See LICENSE for details.
+The Zebra Scanner SDK iOS is released under the Zebra license. See [LICENSE](https://github.com/zebratechnologies/Zebra-Scanner-SDK-iOS-SPM?tab=License-1-ov-file#) for details.
 
 ## Support
 For support, please visit http://www.zebra.com/support.
