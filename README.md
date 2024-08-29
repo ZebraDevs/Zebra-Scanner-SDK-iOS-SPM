@@ -1,6 +1,6 @@
 # Zebra-Scanner-SDK-iOS-SPM
 
-Zebra Scanner SDK iOS is a binary framework packaged as an XCFramework bundle, which can be integrated into your Swift or Objective-C projects using SPM, aka Swift Package Manager.<br>
+Zebra Scanner SDK iOS is a binary framework packaged as an XCFramework bundle, which can be integrated into a Swift or an Objective-C project using SPM, aka Swift Package Manager.<br>
 This repo contains a Package.swift file, which uses a binaryTarget for ZebraScannerSDK.xcframework (files are hosted in GitHub Release page).
 
 ## Zebra Scanner SDK for iOS
@@ -50,7 +50,7 @@ To integrate ZebraScannerSDK.xcframework into your Xcode project, using Swift Pa
 
 1. Open your Xcode project.
 2. Navigate to File  > Add Package Dependencies.
-3. Enter the repository URL: https://github.com/zebratechnologies/Zebra-Scanner-SDK-iOS-SPM.git.
+3. Enter the repository URL: https://github.com/ZebraDevs/Zebra-Scanner-SDK-iOS-SPM.
 4. Choose the latest version or specify the version you want to use.
 
 After integrating the  ZebraScannerSDK.xcframework to your Xcode project, other required configurations can be found [here](https://techdocs.zebra.com/dcs/scanners/sdk-ios/setup/).
