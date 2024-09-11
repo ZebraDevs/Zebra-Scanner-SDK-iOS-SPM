@@ -1,7 +1,7 @@
 # Zebra-Scanner-SDK-iOS-SPM
 
 Zebra Scanner SDK iOS is a binary framework packaged as an XCFramework bundle, which can be integrated into a Swift or an Objective-C project using SPM, aka Swift Package Manager.<br>
-This repo contains a Package.swift file, which uses a binaryTarget for ZebraScannerSDK.xcframework (files are hosted in GitHub Release page).
+This repo contains a Package.swift file, which uses a binaryTarget for ZebraScannerSDK.xcframework.
 
 ## Zebra Scanner SDK for iOS
 The Zebra Scanner SDK for iOS enables MFi and BTLE cordless scanners to be connected and controlled
